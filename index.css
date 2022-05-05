@@ -75,3 +75,9 @@
  .mercy {
      color: white;
  }
+ 
+ .attribution {
+     font-size: 12px;
+     text-align: center;
+     color: hsl(220, 15%, 55%);
+ }
